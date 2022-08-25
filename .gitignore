@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Fable generated files
+dist/
+build/
+.clj-kondo
+.lsp
+*.fs.js
+*.fs.js.map

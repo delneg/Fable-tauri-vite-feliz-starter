@@ -1,6 +1,6 @@
-# Tauri + React + Typescript
+# Tauri + React + F# FAble
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This template should help get you started developing with Tauri, React and F# Fable in Vite.
 
 ## Recommended IDE Setup
 
