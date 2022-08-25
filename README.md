@@ -1,6 +1,7 @@
-# Tauri + React + F# FAble
+# Tauri + React + F# Fable
 
-This template should help get you started developing with Tauri, React and F# Fable in Vite.
+This template should help get you started developing with Tauri, React (Feliz) and F# Fable  in Vite.
+
 
 ## Recommended IDE Setup
 
