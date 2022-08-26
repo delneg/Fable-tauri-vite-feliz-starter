@@ -12,6 +12,8 @@ rust-version = "1.57"
 
 [build-dependencies]
 tauri-build = { version = "1.0.0", features = [] }
+fable_library_rust = { path = "./fable_modules/fable-library-rust" }
+
 
 [dependencies]
 serde_json = "1.0"
