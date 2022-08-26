@@ -30,3 +30,13 @@ build/
 .lsp
 *.fs.js
 *.fs.js.map
+
+# Binaries
+bin
+obj
+target
+
+# Output
+.ionide
+.fake
+out
