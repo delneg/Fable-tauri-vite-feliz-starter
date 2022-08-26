@@ -5,9 +5,9 @@
   "scripts": {
     "postinstall": "dotnet tool restore",
     "prestart": "dotnet tool restore",
-    "dev": "dotnet fable watch src -s --run vite",
-    "build": "dotnet fable src --run vite build",
-    "preview": "dotnet fable src --run vite preview",
+    "dev": "dotnet fable watch App.fsproj -s --run vite",
+    "build": "dotnet fable App.fsproj --run vite build",
+    "preview": "dotnet fable App.fsproj --run vite preview",
     "tauri": "tauri"
   },
   "dependencies": {
